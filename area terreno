@@ -1,0 +1,6 @@
+Inicio
+Leer datos a,b,h
+area= h*(a+b)/2
+precio= area*3450
+Imprimir resultados
+Fin
